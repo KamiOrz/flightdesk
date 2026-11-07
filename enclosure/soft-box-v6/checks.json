@@ -1,0 +1,25 @@
+{
+  "style": "original rectangular instrument, softened front/rear perimeter and plinth",
+  "front_mm": [
+    76,
+    40,
+    18.2
+  ],
+  "front_edge_radius_mm": 1.8,
+  "rear_edge_radius_mm": 1,
+  "base_top_radius_mm": 2.4,
+  "rear_support_vertical_radius_mm": 5,
+  "rear_support_top_radius_mm": 3,
+  "support_to_foot_radius_mm": 2,
+  "weight_mm": [
+    34,
+    20,
+    4.85
+  ],
+  "hole_mm": 6.2,
+  "locator_mm": 5.8,
+  "screw": "M3x6 self tapping panhead, head height <=2 mm",
+  "pin_projection_mm": 8.25,
+  "collisions": [],
+  "physical_fit": "not verified"
+}

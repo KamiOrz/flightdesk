@@ -1,0 +1,92 @@
+[
+  {
+    "part": "weighted-base.stl",
+    "watertight": true,
+    "size_mm": [
+      78.0,
+      48.0,
+      32.413
+    ],
+    "min_z": 0.0
+  },
+  {
+    "part": "button-keeper-2.stl",
+    "watertight": true,
+    "size_mm": [
+      9.32,
+      6.0,
+      1.0
+    ],
+    "min_z": 0.0
+  },
+  {
+    "part": "rear-pin-carrier.stl",
+    "watertight": true,
+    "size_mm": [
+      75.4,
+      39.4,
+      9.18
+    ],
+    "min_z": 0.0
+  },
+  {
+    "part": "pin-fit-coupon.stl",
+    "watertight": true,
+    "size_mm": [
+      12.8,
+      30.0,
+      7.58
+    ],
+    "min_z": 0.0
+  },
+  {
+    "part": "button-1.stl",
+    "watertight": true,
+    "size_mm": [
+      4.75,
+      5.199,
+      4.87
+    ],
+    "min_z": -0.0
+  },
+  {
+    "part": "button-keeper-1.stl",
+    "watertight": true,
+    "size_mm": [
+      9.32,
+      6.0,
+      1.0
+    ],
+    "min_z": 0.0
+  },
+  {
+    "part": "button-2.stl",
+    "watertight": true,
+    "size_mm": [
+      4.809,
+      5.199,
+      4.87
+    ],
+    "min_z": -0.0
+  },
+  {
+    "part": "weight-retainer.stl",
+    "watertight": true,
+    "size_mm": [
+      12.0,
+      11.998,
+      1.2
+    ],
+    "min_z": 0.0
+  },
+  {
+    "part": "front-housing.stl",
+    "watertight": true,
+    "size_mm": [
+      76.0,
+      40.0,
+      18.2
+    ],
+    "min_z": 0.0
+  }
+]

@@ -1,0 +1,12 @@
+.pio/
+.local/
+__pycache__/
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+include/local_config.h
+assets/*.rle
+assets/custom/
+*.log
